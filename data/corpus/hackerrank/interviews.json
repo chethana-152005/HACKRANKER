@@ -1,0 +1,16 @@
+{
+  "articles": [
+    {
+      "id": "hr-201",
+      "title": "Interview Inactivity Timeout",
+      "content": "HackerRank interviews have an inactivity timeout to prevent idle sessions. The default timeout is 20 minutes for both interviewers and candidates. If a user is inactive (no mouse/keyboard activity) for this duration, they may be returned to the lobby. To extend timeout: Ensure active participation by moving mouse or interacting. There is no user-configurable setting to extend this timeout; contact support for special accommodations.",
+      "category": "Interviews"
+    },
+    {
+      "id": "hr-202",
+      "title": "Mock Interviews",
+      "content": "Mock interviews are practice sessions available in HackerRank Community. They simulate real interview conditions. Technical issues should be reported to support. Refunds for mock interviews are handled on a case-by-case basis and require human review.",
+      "category": "Interviews"
+    }
+  ]
+}

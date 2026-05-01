@@ -1,0 +1,16 @@
+{
+  "articles": [
+    {
+      "id": "cl-201",
+      "title": "Reporting Security Vulnerabilities",
+      "content": "If you discover a security vulnerability in Claude, report it through Anthropic's responsible disclosure program. Email security@anthropic.com with details. Do not publicly disclose the vulnerability until Anthropic has had time to investigate and fix it. Anthropic may offer rewards through their bug bounty program.",
+      "category": "Safety Policies"
+    },
+    {
+      "id": "cl-202",
+      "title": "Web Crawling Opt-Out",
+      "content": "To prevent Claude from using your website data for training, you can: 1) Use robots.txt to block Anthropic's crawler, 2) Contact Anthropic directly to request exclusion, 3) Use the opt-out form on Anthropic's website. Note: This only affects future training, not data already used.",
+      "category": "Privacy"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "articles": [
+    {
+      "id": "hr-101",
+      "title": "Deleting HackerRank Account",
+      "content": "To delete your HackerRank account: Go to the login page and click 'Forgot your password?' if you signed up via Google. Set a new password. Log in with the new password. Click your profile icon and select Settings. Scroll to Delete Accounts section. Click Delete Account. Deleting your account permanently removes all data and cannot be undone.",
+      "category": "Account Access"
+    },
+    {
+      "id": "hr-102",
+      "title": "Removing Users from Team",
+      "content": "To remove a user from your HackerRank for Work account: Log in as an admin. Go to Settings > Users. Find the user and click the three dots menu. Select 'Remove User'. Confirm the removal. The user will immediately lose access to all tests and data.",
+      "category": "Account Access"
+    }
+  ]
+}

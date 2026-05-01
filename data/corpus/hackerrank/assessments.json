@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "id": "hr-001",
+      "title": "Test Duration and Expiration",
+      "content": "Tests in HackerRank remain active indefinitely unless a start and end time are set. Without these, tests do not expire automatically. To set expiration times, specify a start and end date/time in the test settings. After expiration: Invited candidates cannot access the test. The 'Invite' button is disabled; no new invitations can be sent. To check or change expiration settings: Go to the test's Settings and select the General section. Update the Start date & time and End date & time fields as needed.",
+      "category": "Assessments"
+    },
+    {
+      "id": "hr-002",
+      "title": "Adding Extra Time for Candidates",
+      "content": "Log in to your HackerRank for Work account. Go to the Tests tab. Select the test you want to modify. Go to the Candidates tab. Select the checkbox next to the candidate(s) you want to accommodate time. Click More > Add Time Accommodation. Enter the accommodation percentage in multiples of five. Click Save. Time accommodation can also be added before the invite has been sent.",
+      "category": "Assessments"
+    },
+    {
+      "id": "hr-003",
+      "title": "Test Variants",
+      "content": "Create variants to adapt a single test to different candidate profiles, such as roles with different tech stacks. Variants streamline assessments by showing candidates only relevant sections and generating role-specific reports. Advantages: Reduces the need to manage multiple tests. Decreases maintenance. Limitations: A test must have at least two variants to function. You cannot delete a variant if only two exist.",
+      "category": "Assessments"
+    },
+    {
+      "id": "hr-004",
+      "title": "Rescheduling Assessments",
+      "content": "Candidates cannot reschedule assessments themselves. To reschedule, the recruiter must cancel the existing invitation and send a new invitation with updated timing. Contact your recruiter to request a reschedule. HackerRank support cannot reschedule assessments directly.",
+      "category": "Assessments"
+    }
+  ]
+}

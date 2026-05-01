@@ -1,0 +1,16 @@
+{
+  "articles": [
+    {
+      "id": "cl-001",
+      "title": "Deleting Conversations",
+      "content": "To delete an individual conversation: Navigate to the conversation. Click on the name at the top of the screen. Select 'Delete' from the options. Deleted conversations cannot be recovered. This removes the conversation from your history immediately.",
+      "category": "Privacy"
+    },
+    {
+      "id": "cl-002",
+      "title": "Data Retention Policy",
+      "content": "When you allow Claude to use your data for model improvement, conversations may be retained for training purposes. The typical retention period for training data is 30 days. You can opt out of data sharing in your account settings under Privacy.",
+      "category": "Privacy"
+    }
+  ]
+}
