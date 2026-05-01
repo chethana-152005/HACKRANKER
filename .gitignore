@@ -1,0 +1,37 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Environment variables (KEEP YOUR API KEY SAFE!)
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Data and Corpus (these are usually excluded from repo to keep it small)
+data/corpus/
+*.csv
+!requirements.txt
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Logs (optional, but good practice)
+logs/
+*.log
+
+# Submission files (these go to the platform, not necessarily git)
+submission/
+output/
+
+# IDE
+.vscode/
+.idea/

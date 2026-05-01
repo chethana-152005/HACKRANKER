@@ -1,0 +1,16 @@
+{
+  "articles": [
+    {
+      "id": "vs-201",
+      "title": "Card Declined",
+      "content": "If your Visa card is declined: 1) Check you have sufficient funds/credit. 2) Verify the card details are entered correctly. 3) Contact your issuer - they may have blocked it for security reasons. 4) Try a different payment method while investigating. Some merchants may have minimum purchase requirements for card payments.",
+      "category": "Card Declined"
+    },
+    {
+      "id": "vs-202",
+      "title": "Minimum Purchase Requirements",
+      "content": "Merchants may set minimum purchase amounts for credit/debit card transactions. In the US, this is typically up to $10. This is a merchant policy, not a Visa rule. If you feel the minimum is excessive, you can: 1) Pay with cash, 2) Use a different merchant, 3) Contact your card issuer to report the merchant.",
+      "category": "Payments"
+    }
+  ]
+}

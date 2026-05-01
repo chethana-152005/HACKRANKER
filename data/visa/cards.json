@@ -1,0 +1,16 @@
+{
+  "articles": [
+    {
+      "id": "vs-001",
+      "title": "Lost or Stolen Card",
+      "content": "If your Visa card is lost or stolen: Call Visa India at 000-800-100-1219 immediately. From anywhere else, call Visa's Global Customer Assistance Service at +1 303 967 1090 (24/7). Your card can be blocked within 30 minutes of reporting. Emergency cash and replacement cards can be arranged.",
+      "category": "Lost/Stolen Card"
+    },
+    {
+      "id": "vs-002",
+      "title": "Travellers Cheques",
+      "content": "For lost or stolen Visa Travellers Cheques: Call the issuer immediately (check your purchase receipt for the number). Have ready: cheque serial numbers, purchase date/location, details of loss. Refunds are typically processed within 24 hours. Report to local police as well.",
+      "category": "Travel Support"
+    }
+  ]
+}

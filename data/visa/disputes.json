@@ -1,0 +1,16 @@
+{
+  "articles": [
+    {
+      "id": "vs-101",
+      "title": "Disputing a Charge",
+      "content": "To dispute a Visa charge: 1) Contact the merchant first to try to resolve directly. 2) If unsuccessful, contact your card issuer (the bank that issued your Visa card, not Visa directly). 3) Provide transaction details, date, amount, and reason for dispute. Your issuer will guide you through the chargeback process.",
+      "category": "Fraud & Disputes"
+    },
+    {
+      "id": "vs-102",
+      "title": "Identity Theft",
+      "content": "If you suspect identity theft: 1) Contact your card issuer immediately to block cards. 2) Place a fraud alert with credit bureaus. 3) File a police report. 4) Monitor your accounts for unauthorized transactions. Visa and your issuer will work with you to resolve fraudulent charges.",
+      "category": "Fraud & Disputes"
+    }
+  ]
+}
