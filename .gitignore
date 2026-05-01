@@ -1,34 +1,23 @@
 # Virtual Environment
 venv/
 env/
-.venv/
 
-# Environment variables (KEEP YOUR API KEY SAFE!)
+# Environment variables
 .env
 
 # Python cache
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-.Python
-*.so
 
-# Data and Corpus (these are usually excluded from repo to keep it small)
-data/corpus/
+# Exclude large input/output CSVs, but ALLOW the corpus
 *.csv
 !requirements.txt
 
-# Build artifacts
-build/
-dist/
-*.egg-info/
-
-# Logs (optional, but good practice)
+# Logs
 logs/
 *.log
 
-# Submission files (these go to the platform, not necessarily git)
+# Submission and output folders
 submission/
 output/
 
